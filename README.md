@@ -1,2 +1,2 @@
 # graduation_project
-In this repository,I'll start my first project of graduation project
+In this repository, there are some programs I did in university.
