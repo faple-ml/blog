@@ -1,5 +1,5 @@
 # blog
-Some blogs
+**写博客的地方不停换，最终还是决定搭个博客，之后希望不再变吧。** 地址：https://faple-ml.github.io/
 
 ### Computer Science
 * 图形学
